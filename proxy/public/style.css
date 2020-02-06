@@ -1,0 +1,31 @@
+#app {
+  padding-top: 40%;
+}
+
+#nearbyCarousel {
+  padding-top: 5%;
+  left: 20%;
+}
+#topBar {
+  text-align: center;
+  border-bottom: solid grey;
+}
+#estimateGraph {
+  position: absolute;
+  top: 83%;
+  left: 50%;
+}
+
+#imageCarousel {
+  position: absolute;
+  left: 16%;
+}
+h2 {
+  padding-top: 5%;
+  padding-left: 37%;
+}
+
+#main {
+  background-color: honeydew;
+  height: 110%;
+}
